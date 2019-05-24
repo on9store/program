@@ -1,0 +1,5 @@
+<version>com.on9store.airlines.airasia=17;com.on9store.listviewfeed.myvouchercode=24;com.on9store.myvouchercode.shopee=11;com.on9store.myvouchercode.tokopedia=8;com.on9store.promotion.shopee=1;com.on9store.airlines.malaysia=8;com.on9store.airlines.asia=22;</version>
+<br><lazadadesktopcodeformat>div table tbody table#H_dgvWorkingCode</lazadadesktopcodeformat>
+<br><lazadaappcodeformat>div table tbody table#H_dgvWorkingAppCode</lazadaappcodeformat>
+<br><shopeedesktopcodeformat>div table tbody table#H_dgvWorkingCode</shopeedesktopcodeformat>
+<br><shopeeappcodeformat>div table tbody table#H_dgvWorkingAppCode</shopeeappcodeformat>
